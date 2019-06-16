@@ -1,1 +1,6 @@
 Adding some characters to the current file...
+The second file for the second feature)).
+***
+the third file for the second feature...
+!!!
+//

@@ -1,4 +1,0 @@
-***
-the third file for the second feature...
-!!!
-//
